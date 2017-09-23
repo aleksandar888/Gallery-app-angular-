@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+
+body{
+  background-color: #efefef;
+  font-family: 'Open Sans', SansSerif, serif;
+}
+
+.main-content{
+  padding-top: 60px;
+  color: #333;
+}
